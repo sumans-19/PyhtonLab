@@ -20,9 +20,6 @@ else:
 
 
 
-
-
-
 #2.claculate length of the string without buitin function and check for pallindrome:
 # Input the string
 s = input("Enter a string: ")
